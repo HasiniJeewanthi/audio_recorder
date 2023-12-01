@@ -60,11 +60,11 @@ main {
 .mic-toggle:hover::after {
     --pad: -2rem;
 }
-.mic-toggle span {
+.mic-toggle span i{
     position: relative;
     z-index: 1;
     color: #fff;
-    font-size: 6rem;
+    font-size: 4rem;
 }
 
 .mic-toggle.is-recording::after {
